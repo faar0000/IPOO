@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1449695899 source:c:\users\alejandro\documents\game\src\enemigo.cpp
+	"enemigo.h"
+	<SDL/SDL.h>
+	<SDL/SDL_IMAGE.h>
+	<SDL/SDL_MIXER.h>
+
+1449695908 c:\users\alejandro\documents\game\include\enemigo.h
+	<SDL/SDL.h>
+	<SDL/SDL_IMAGE.h>
+	<SDL/SDL_MIXER.h>
+
+1451939691 source:c:\users\alejandro\documents\game\src\juego.cpp
+	"juego.h"
+	<mapa.h>
+	<SDL/SDL.h>
+	<SDL/SDL_IMAGE.h>
+	<SDL/SDL_MIXER.h>
+
+1451939676 c:\users\alejandro\documents\game\include\juego.h
+	<stdlib.h>
+	<mapa.h>
+	<SDL/SDL.h>
+	<SDL/SDL_IMAGE.h>
+	<SDL/SDL_MIXER.h>
+
+1451939630 c:\users\alejandro\documents\game\include\mapa.h
+	<SDL/SDL_IMAGE.h>
+	<SDL/SDL_MIXER.h>
+	<SDL/SDL.h>
+	<SDL/SDL_IMAGE.h>
+	<SDL/SDL_MIXER.h>
+

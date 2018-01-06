@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1451964911 source:c:\users\alejandro\documents\gamefinal\src\game.cpp
+	"Game.h"
+	"fstream"
+
+1451964447 c:\users\alejandro\documents\gamefinal\include\game.h
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<time.h>
+	<SDL/SDL_IMAGE.h>
+	<SDL/SDL_MIXER.h>
+	<iostream>
+	<Pacman.h>
+
+1451956176 source:c:\users\alejandro\documents\gamefinal\main.cpp
+	<iostream>
+	<Game.h>
+
+1451963735 c:\users\alejandro\documents\gamefinal\include\pacman.h
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<time.h>
+	<SDL/SDL_IMAGE.h>
+	<SDL/SDL_MIXER.h>
+	<iostream>
+
+1451962431 source:c:\users\alejandro\documents\gamefinal\src\pacman.cpp
+	"Pacman.h"
+
+1451963985 c:\users\alejandro\documents\gamefinal\include\enemigo.h
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_IMAGE.h>
+
+1451964447 source:c:\users\alejandro\documents\gamefinal\src\enemigo.cpp
+	"enemigo.h"
+
