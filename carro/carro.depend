@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1447289772 source:c:\users\alejandro\documents\carro\main.cpp
+	"include\carro.h"
+	<iostream>
+
+1447289677 source:c:\users\alejandro\documents\carro\src\carro.cpp
+	"carro.h"
+
+1447289648 c:\users\alejandro\documents\carro\include\carro.h
+	<string>
+
